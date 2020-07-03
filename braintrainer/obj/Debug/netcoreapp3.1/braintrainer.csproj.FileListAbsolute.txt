@@ -1,0 +1,13 @@
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\bin\Debug\netcoreapp3.1\braintrainer.exe
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\bin\Debug\netcoreapp3.1\braintrainer.deps.json
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\bin\Debug\netcoreapp3.1\braintrainer.runtimeconfig.json
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\bin\Debug\netcoreapp3.1\braintrainer.runtimeconfig.dev.json
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\bin\Debug\netcoreapp3.1\braintrainer.dll
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\bin\Debug\netcoreapp3.1\braintrainer.pdb
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\obj\Debug\netcoreapp3.1\braintrainer.csprojAssemblyReference.cache
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\obj\Debug\netcoreapp3.1\braintrainer.csproj.CoreCompileInputs.cache
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\obj\Debug\netcoreapp3.1\braintrainer.AssemblyInfoInputs.cache
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\obj\Debug\netcoreapp3.1\braintrainer.AssemblyInfo.cs
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\obj\Debug\netcoreapp3.1\braintrainer.dll
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\obj\Debug\netcoreapp3.1\braintrainer.pdb
+G:\ONE DRIVE\OneDrive\STUDIA\Wprowadzenie do programowania LAB [K.Molenda}\Projekt\braintrainer\braintrainer\obj\Debug\netcoreapp3.1\braintrainer.genruntimeconfig.cache

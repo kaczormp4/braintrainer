@@ -27,3 +27,5 @@ LICZBY MOGĄ SIĘ POWTARZAĆ dlatego zwróć uwagę na wyswietlane prostokąty w
 █                  █     █           █                  █     █
 
 ITD.
+
+POWODZENIA!

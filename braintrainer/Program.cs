@@ -119,7 +119,7 @@ namespace braintrainer
         }
         static void customSettings()
         {
-            Console.WriteLine("┌----------------------------------------------┐");////////////////////////////////////CUSTOM
+            Console.WriteLine("┌----------------------------------------------┐");
             Console.WriteLine("| CUSTOM SETTINGS                              |");
             Console.WriteLine("| complete the data before you start the game  |");
             Console.WriteLine("| (numbers of numbers, range of numbers, time) |");
@@ -211,7 +211,7 @@ namespace braintrainer
                 Console.WriteLine("                             ");
                 Console.WriteLine("                             ");
                 Console.WriteLine("                             ");
-               // menu();
+                // menu();
                 return;
             }
             else
@@ -239,7 +239,7 @@ namespace braintrainer
                 Console.WriteLine("                             ");
                 Console.WriteLine("                             ");
                 menu();
-               // return;
+                // return;
             }
         }
     }

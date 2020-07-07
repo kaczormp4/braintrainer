@@ -20,18 +20,14 @@ UWAGA!
 <br>
 LICZBY MOGĄ SIĘ POWTARZAĆ dlatego zwróć uwagę na wyswietlane prostokąty w czasie gry np:
 <br>
-█ ﾟ ﾟ ﾟ ﾟ█  ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ█  
+█ ﾟ ﾟ ﾟ ﾟ█  ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ█ ﾟ ﾟ ﾟ ﾟ ﾟ
 <br>
-█ ﾟ ﾟ5 ﾟ ﾟ ﾟ ﾟ----> ﾟ ﾟ █ ﾟ ﾟ 5       ----->>>> są to liczby (5,5)
+█ ﾟ ﾟ5 ﾟ ﾟ ﾟ ﾟ----> ﾟ ﾟ █ ﾟ ﾟ 5 ﾟ ﾟ  ----->>>> są to liczby (5,5)
 <br>
-█  ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ █ ﾟ ﾟ ﾟ ﾟ█
+█ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ█ ﾟ ﾟ ﾟ ﾟ█
 <br>
 
-<br>
-█     █            █                 █     █            █<br>
-█  5      ---->    █  5      ---->   █  5      ---->    █  5       ----->>>> są to liczby (5,5,5,5)<br>
-█                  █     █           █                  █     █<br>
 
 ITD.
-
+<br><br><br>
 POWODZENIA!

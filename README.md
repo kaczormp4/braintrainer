@@ -20,11 +20,11 @@ UWAGA!
 <br>
 LICZBY MOGĄ SIĘ POWTARZAĆ dlatego zwróć uwagę na wyswietlane prostokąty w czasie gry np:
 <br>
-█ &nbsp;&nbsp;&nbsp;&nbsp; █ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█  
+█ ﾟ ﾟ ﾟ ﾟ█  ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ█  
 <br>
-█ &nbsp;&nbsp; 5 &nbsp;&nbsp;     ---->    █  5       ----->>>> są to liczby (5,5)
+█ ﾟ ﾟ5 ﾟ ﾟ ﾟ ﾟ----> ﾟ ﾟ █ ﾟ ﾟ 5       ----->>>> są to liczby (5,5)
 <br>
-█ &nbsp;&nbsp;&nbsp;&nbsp;  █ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█
+█  ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ ﾟ █ ﾟ ﾟ ﾟ ﾟ█
 <br>
 
 <br>

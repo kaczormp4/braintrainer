@@ -2,11 +2,11 @@
 [konsolowa aplikacja w języku c# ] 
 <br>
 Autorska aplikacja/gra która polega na wyswietlaniu przez komupter losowych liczb, a następnie dodawaniu ich przez gracza.
-<br>
-W grze dostępne są 3 tryby:
- -KAMPANII
- -WYBÓR POZIOMÓW 
- -DOWOLNA KONFIGURACJA
+<br><br><br>
+W grze dostępne są 3 tryby:<br>
+ -KAMPANII <br>
+ -WYBÓR POZIOMÓW <br>
+ -DOWOLNA KONFIGURACJA <br>
 <br>
 Tryb kampanii polega na zdobybywniu poziomów od najmniejszego do największego
 <br>
@@ -20,7 +20,7 @@ UWAGA!
 <br>
 LICZBY MOGĄ SIĘ POWTARZAĆ dlatego zwróć uwagę na wyswietlane prostokąty w czasie gry np:
 <br>
-█     █            █  
+█ &nbsp;&nbsp;&nbsp; █            █  
 <br>
 █  5      ---->    █  5       ----->>>> są to liczby (5,5)
 <br>

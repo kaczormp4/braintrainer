@@ -155,9 +155,24 @@ namespace braintrainer
             numOfNum = int.Parse(numOfNum0);
             rangeOfNum = int.Parse(rangeOfNum0);
             viewtime = int.Parse(time0);
+            if (numOfNum > 1000 || rangeOfNum > 1000 || viewtime < 5)
+            {
+                Console.Clear();
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
+                Console.WriteLine("         ERROR !!!! -->>> enter a smaller range of numbers");
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
 
-            Console.Clear();
-            game(numOfNum, rangeOfNum, viewtime);
+            }
+            else
+            {
+                Console.Clear();
+                game(numOfNum, rangeOfNum, viewtime);
+            }
+
         }
         // funkcja GAME jest najważniejszą funkcją w grze
         // odpowiada ona za część logiczną gry
